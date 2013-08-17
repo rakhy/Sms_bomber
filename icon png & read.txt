@@ -1,0 +1,5 @@
+i created total app for firefox os named "sms bomber";
+i cann't able to successfully execute it.
+please run this repo and suggest me changes.
+use any picture as icon.png(optional).
+thank you...
